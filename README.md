@@ -2,7 +2,10 @@
 
 This is task 3 in the sparks foundation Data Analysis Intern
 
+## Table of Contents
+
 - [Retail Analysis - Exploratory Data Analysis](#retail-analysis---exploratory-data-analysis)
+  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Dataset](#dataset)
   - [Tools](#tools)
