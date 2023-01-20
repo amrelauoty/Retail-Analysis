@@ -35,8 +35,8 @@ Dataset: [SampleSuperStore.csv](https://bit.ly/3i4rbWl)
 
 ## Tools
 
-Microsoft PowerPoint (Dashboard Background)
-Microsoft Power BI (Dashboard)
+- Microsoft PowerPoint (Dashboard Background)
+- Microsoft Power BI (Dashboard)
 
 ## Dashboard
 
