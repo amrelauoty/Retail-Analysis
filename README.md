@@ -45,5 +45,3 @@ Microsoft Power BI (Dashboard)
 ![Overview Page](./Dashboard%20Photos/SuperStore%20Retail%20Analysis_page-0002.jpg)
 
 [Live Dashboard](https://www.novypro.com/project/retail-1)
-
-<iframe title="SuperStore Retail Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjY0NmE3YTYtMjAyOS00MDdkLTkyZTYtM2M1ZmExM2Y5N2Y3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection3ef45984868aae9ca5db" frameborder="0" allowFullScreen="true"></iframe>
